@@ -1,0 +1,1828 @@
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "f0d71dda252cce52a1eb635edfc1479e81d3d068"
+llvm_version = "15"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "acdd11a19b241e19185949da542712aa9d9faa9dc9f474c30b5bbf33c15199df"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff8c8e8dde28243745c21b1681c880233516902d"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7c35b8d5f10813c84700111e42f90716265ef60b23167e61365ae49ac62d598b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abeaa994a61f19d460dcfc137e1b4a8d1ba87714"
+libc = "musl"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "49b706c200644dc5a2c1eca5de462086986a2be30078638fc0459db27724b4ba"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f777e53f725711f20f4029dda5966bd467abbef"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "79987e13b255a3ffd8c45c97fc364e00f8badd897633ce83f177e90de61fc066"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e67f2a5af1d7fe640b51f09c1b47e112512808a3"
+libc = "musl"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "55aadbcc5597d4706bf08718bca90330eaa185309e5f6377390856a8198e88cf"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb4c4fab3a82e0be83a9add2ace8a141d500cf63"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1623618bb4f51967fbaaf71033e16f95cc99eb97f5bb184752e8f8215ad71a9b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9316da9e55b8a7f0ca2d7484341105eb0f0c5f3"
+libc = "musl"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "af472b12d1c2075ffc4011660f3693285235eecd6ab199f0bc0042337340c808"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7f2e02c9e2eedef00756c0b08109c16f1a1d2e2"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "97764ba1943bac665891da8b71522934187baccb7a1cd7cbf1a0f72bc09896a5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "766fe3a0241d60a85d36fc108131d1a161e436c4"
+llvm_version = "15"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8255d9e82d01165e533984339a3afc6ed8795dedd42e5844f7b41cebd617a859"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e233f70ccdc1e8c1add799f8d3db7fc33b0dc86f"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "382590be757442e0b16f84639dedce80d9c7def2badd0f56c0cee47391be9990"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "811591a2f51092eb868607a6b461792587e187f1"
+llvm_version = "15"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e52572ba308420f7a1732b8520655c263fe91855a2d0fb6a81d3e77e0862f096"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecd589851da0aa07f3c63eef81f860141440501e"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a0cefaca089ecb7f64f0afbecf19d7e391676f2c2ddd2f91154e20267055ed5d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecd589851da0aa07f3c63eef81f860141440501e"
+libc = "glibc"
+llvm_version = "15"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a0cefaca089ecb7f64f0afbecf19d7e391676f2c2ddd2f91154e20267055ed5d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "151b7efd2c8eb9d860df4615a8ef9c046a514279"
+libc = "musl"
+llvm_version = "15"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5a6602089f21fbeef9e96c2cdb3a80073b065f2f0a262271d54e966e7bc5b244"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "40ddc02cc7531fef648516f9e89e59955d9e4b09"
+llvm_version = "15"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4c1aedebe20edbe8b93a782b336345abac30bd2ecf8d9713333a837193db1552"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fa65383955c4756a01b9d34f9cbc332bf6723ea5"
+llvm_version = "15"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8091cc5cc706da5285f474607b922e7b653120d0f60ef89821bab9a89dd92c00"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "f13ae500349c191ffeb7de98016db949274ce22a"
+llvm_version = "16"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "bbab4afcaaccec357384cf02d401c390611bdc4cbccffcdc96d46121ca01d392"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fafc630e764d7bc56d0a5ea270d5e2d5fcefb88e"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4217d12d208fb5c752e9d90322054ca80469920c0c43831ad9da5dea75e00034"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d54269db8cd68ce64f1747bca3686c0906779d2"
+libc = "musl"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "fca668d4301de3b8345efc9a4bcbb53aa3f248c110e9d039d677cb93d98b512b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53b28e3d497c6e7a56dba4026986d52df8ef2d07"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a646ed61e9911e837201dc6f8dcd28ba9225be479671c26e189f28a45e5fb76d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9036ee0a0faacc4fd22a976488391c879d4d6d8e"
+libc = "musl"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a47b83e1afe5761a14e736a3856d970349e5e6d4713aff6d675e5bf18bff9222"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0429cfcaceae5e0b3aad90dd16c04ff808d89b8"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "04bf95f528a5ccab6423fd5f1c1b33c02c2699572a6eb02ad57183951ca087d1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea0c811ebeff306e41cced865efc1fb2853deadf"
+libc = "musl"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f6d655140fb135e53d9fd5adf24a15e2e3fa1b36263bb1b710cfe65a3ca6f16f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f146750c3efcc82ddfd15bbfabf1aebbfba56a1"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "2423b46e786f388ba2ce4f3272d3954e233066c195ba98beaa6069a52fc15093"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0eec621f3bc37cd5928d7de40d7e856b27707d12"
+llvm_version = "16"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "20b77e50d4fd7f8fd62c7ab202a58ed62e328dc90a99b8b88721edc25139a8e0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5321a42cbe1453828520727780aa9e800bc2f232"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "3820959e35e7f9a5e34dea01939eb56b2e043cac800375d4a56d59051a5f5c29"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "5242a11924f182d500c1f3cbaa1dd50d257da378"
+llvm_version = "16"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4c84d9f2c3daff31710ef4fafc7683dcca88492e18b1b7a0817283459de46446"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99aa67b07598fa620af886c80be9f0a0b92a64f9"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "3493bb061e79d63d27d077992eaac6f3d828d5f4afc7f3a7004994041e0e2d69"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99aa67b07598fa620af886c80be9f0a0b92a64f9"
+libc = "glibc"
+llvm_version = "16"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "3493bb061e79d63d27d077992eaac6f3d828d5f4afc7f3a7004994041e0e2d69"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13a6c99b46c78ebb9532eb4c97aec1f516867930"
+libc = "musl"
+llvm_version = "16"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "3b488cad789bf2067bec3381b47ceddd239ceac418ffc8cb4778bafe51ba5e36"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "8744b7a7013279809eb718a63f3cd67e40c70b6b"
+llvm_version = "16"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "86ce456ee053bec6dc4f212889772b56bffb1d3ff3d6917e2ecd591d0dbddc25"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74e89bec49b80f01f1e2eb45f24b53d7c0230561"
+llvm_version = "16"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "3096d5504acc6c7a9047a4830c602125a0d7434f97a9945c40140475a510c175"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "6677b946d8124295f597d542080ee2a6b4b18924"
+llvm_version = "18"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5bb45327bf103696da0e8f01ecfabf63cd85330d72995f17e7788334cdc8ed8e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffd9cf76c653b5b4e1b66bd251fb95369e995042"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "34d71e42b560702dd5a185c39b8980c14a8320a4048470685ac897ff8a37f9d7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45e2fd014d385d329282421cceaf97d08be86cd3"
+libc = "musl"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "191a6b3dc4c03010433da89d41120ef79f3c54fff49c928f38d1f9e250623f3a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "059113d127f740fca7b3d7e2cf67b9351dbf4811"
+llvm_version = "18"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "66e7953ae4352a2c31e1b892dfd43ecd4c79597dab25a63199b81b1267e03276"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c2f8bb680a3a18bfcca6cd030d2825397d4914e"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "be16ae38ed6d4ec8d783d7a473090b927e3cc503204c0f0368279b99bfa6d75e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22ffe64f06485fc37e3fa1f4788333c04398ec07"
+libc = "musl"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "12d99264fc538b8d5eff23ea2124008a6a901cf8610d0a7d1f39f63b997e224d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "504ae6ecc777651891da07c541c5f3159050226d"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "46fcdb1799dd82e76d2063cbf19e57f54b7b43d14f6b01fc33fabdcace0a1017"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ead79a94480e1e3aa08a2bafa98404515f115c45"
+libc = "musl"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "bd2a68b918fe38652f94d4e92a9cbede621c54c002cc7c12896b0acaa1e769dc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ae5d7e752debc1c1c7bbbb0d87d582b65e3f145"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6885d10aa7b1e49536b5e645d11829485d519666b2a8e9ff03c78ac39116cc1d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24af3a570b21e3edc5b13d0a1905eeec4ae5b67c"
+llvm_version = "18"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5c62c5e404e1979b8b011866b208fd90438cb45a40586cd031374d217dbc9ad2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08dd226855b19091749beb961bbaffce7637ec35"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b7e2e1e77db4efead117dc95907bb1ed6b9f6ec559bb02902574174dddf1a0bc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "b64e35a079e57d3fd8e2c2fc37a0aa2ca794449e"
+llvm_version = "18"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4b6f428fd9fd4e78daa30efaec4c58860c83daab71f64066b41a9da59a2a1b9a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65549e89351f4ec89d4722559e184f8d254ddeb9"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e4e226eb8e4b950c9de2a58eecab2e28158285a2be986a82d15ffd36f6be8f3e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65549e89351f4ec89d4722559e184f8d254ddeb9"
+libc = "glibc"
+llvm_version = "18"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e4e226eb8e4b950c9de2a58eecab2e28158285a2be986a82d15ffd36f6be8f3e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "675784c6bd106f458d30bd28623d69e20572eb51"
+libc = "musl"
+llvm_version = "18"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "47b498fec19d8b4d6c42f44e3bee58eb33e92da3be5b0cb4c7eaf83fee729f4a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "b1a088175746d697fcc224cb6da28761bdb72489"
+llvm_version = "18"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1acdf86f5a005dcb17f08e1a8a8cda7c926b76ee7631b2a2493d9b91453e7cc1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7cbf8a7ee72234ef514847b211009005784171bd"
+llvm_version = "18"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4b083aac18051f2f8e5efb85b9d37669cb2d55d56bd4a74d0a6b870a225505b8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "c2be692893a908a6063a46c4b20b5b64ce29ab16"
+llvm_version = "20"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "0aca92114bb3fc5c757cf98f2e49350ad3025fb27fae6b26a3f7d3bc2e3e2824"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53bd6c7d7cb5e3f884e507a0d08e57efc76976a1"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d53992434980d88d4707b8d5b64368656ecef1faa3e7dc9bed1d32815045ba9f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e00115fd410cd16483af3c12a3947e3f54f0389c"
+libc = "musl"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5c81ff1911cb34d90c49f7bd6f64b3a653bf68386979076e6ca039bd9533a516"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "31ff70d169b412a9b8601177b17828ff085e1c7d"
+llvm_version = "20"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1177340864f7f13d78b0118aaa80bb5a2e28b9f707fead79a72cf57d95b12b6c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24f8bfb5afeef6e38bb3c7ce7b58219587e012ff"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b4b6d6d4af709583a0b18618956d060330b68b3055e18f4320e5aac78ec9aad0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0634acb5bb7a6c583a317715d1c756c6ac584f0"
+libc = "musl"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "c55bf2794651f2041bde91c84bb305d474422038109d221976fb6b8bea778121"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f23ef07c4ca56a0c5819d2d7b25b9c2a5f0f240"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "9494397d07d62a6a6516b296467f0b6b06b8c9286de12e001e130bbb09938ea3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74128564ffb0c2a3414d91f795f1e33c68e69677"
+libc = "musl"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "db9b0ea0b8d95635b4526087e152b34d2775bfbd1a808e3300b1a031987b2e93"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16dadc1740ae913e60869dc6ee2354b1b5c150bd"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "9b97c155ae6f577dd287d9adb55799ed3bb6589eb14619162a4c95dd73b8c336"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0e29c54e6c209a8ec6ba698bc024730f315dc4e"
+llvm_version = "20"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "84015b2178abd48d789da01dd7062980b6add06afe010fe9bca31c5b2ef671a8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d59eebd4d1e3ec8e8ebd5d56442957dea04665d"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b97bd18c7663743ce6fa65d346466a0a63cf938187612ae6e773629cd26ec536"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0400ccae90f68610d92bf503f739b32586a9b613"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "9a62408bd6709f78c6ccf41bac0ded33ddf8ab924ae410cc5a0e16feeec347ff"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "2c415e96a153ef64362e6cb3244b11b9f18ed6b1"
+llvm_version = "20"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "43d03ea49771ff850e63bdfea529265fd381a35d47202032a161568b3b228404"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcc5f7a956409a1cbd9cfacbb14487870010f128"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8a667c6deb3bf836a6cd730512474d26018a23d24dbd052a8f043894f5ee19f9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcc5f7a956409a1cbd9cfacbb14487870010f128"
+libc = "glibc"
+llvm_version = "20"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8a667c6deb3bf836a6cd730512474d26018a23d24dbd052a8f043894f5ee19f9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb865d50bd0e3ed637da47a070f1fd1e601ad7cd"
+libc = "musl"
+llvm_version = "20"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "020ae3005e7c51f66c89795f7a308d345f1535c5e5180a4308c1a66d16c839aa"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "c2ecd09fd737a6357c16c26ba2407c2b6d1f7785"
+llvm_version = "20"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ccf7968dbecc8def8ae5ab35961b25ca02b04b44f0d41554efc79b3347ba753f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "575d58d52853d528b61b17521723276f47663198"
+llvm_version = "20"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "4cbdbf955d376705154f971687c86626568013f912001c83bf6aecbad498959f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "3cc5610fcff5cf2dca6192ed0878aab2b6c27f07"
+llvm_version = "21"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "2c35248ed0a8d3582c6e0ad30beb0c5dfe5a86d355c32d9df2371804d0402fac"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0e6638aa10fe6a44eb568b3c4e37dba614dfb0e"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8c007c29ae55a8cb2e00682871274acf2e716c9f207c1faca73f7410c9bdb97f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c794961a78f96ae2b4f6858305e503d3abdfc1dd"
+libc = "musl"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d4db241d109b5bbf97553dcf385ba0332e1bd4e9ec6877b8ed4ca384661467a3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "fd3034c8842e03561aa5256f45967aa33c11d45b"
+llvm_version = "21"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b616a09bcce0acc14fe4aeb69567bf8cde5cf95fd1a7cb6670c1d280c09ec86b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe5854c1cec386a0ddd1cd729c4f52c6009ed963"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f6058e8590eb3161a6f7055d58e91638908b07a8ebe55f64b87709374f31fecb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39b6c40cac813588ac61428b8b556d48d718ae2b"
+libc = "musl"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1194d3fec17d12d1450c3f5fd9529afc2fbc271771dada13c22d37c813e94a25"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56c9e419d29e451dd2059e0961b08776675acd24"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f3d89e0b6d5d29fe3b38c3d5fede9cb540a9671491c02f30704d39880bdcd2ac"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29a995f8ea05ff784a9cc1f3b38799aecbf373c8"
+libc = "musl"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5463d4b063df12aa0088b6f17cd0d13fd7cfaac118c141d023c040f3592b734d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11d44ff8500ab600a0baa63a790ce8d8626e3237"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e26f0eebaa09bfc987944cadc9a7b0c2dee78a0f6b76f05a1b98790c0d0880f1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b45623274aa33cf78a70370e6c820837e5191820"
+llvm_version = "21"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a126c1d3bf58a238ebc154859dcea3452e6717f69826afeff57f1e2ddf466b71"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5d50604695eb616e2d7f28e2692f132b54551b8"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b8e56ac3c87ddd5b007489cab581b55f442615441aa62a51924f440a6eea8f16"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0008143418c513cce41ef9f9eb5d3ed28dba50f8"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "9464d91764b630ff50c9a3d95f1ae1efb7e7ebd51fb55b6a2f7c7f506e12e86a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "202829f7c106f788f4a7ee04e0b19330642e2eb1"
+llvm_version = "21"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ff25a9fdad73eb428135a082b026f06eb8b85597231073c38fa8db2dcdd85c8b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a57674becbab6c8f0b3a639c201ddcfdf50d9a47"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "23ad2e7a134a24be30bc503e06ea76dd921fc94c2929949a4e21a8d7087336a0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a57674becbab6c8f0b3a639c201ddcfdf50d9a47"
+libc = "glibc"
+llvm_version = "21"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "23ad2e7a134a24be30bc503e06ea76dd921fc94c2929949a4e21a8d7087336a0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc2551a798ea25c622d9eed68d6782a61080d324"
+libc = "musl"
+llvm_version = "21"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "74c46d13dcf7108c94fb510125a75c43351e12c7eba8a09ec65b158370a109b3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "15e455f93994f2b5ded8ed39232be0d442b4e5b5"
+llvm_version = "21"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d128eb8bc92dfb671b6f4b68f7cee3cde5f6eccadd3c828b0a151c3bb457d0ea"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7e581dd159d4e712998b1a661b19943546a3a065"
+llvm_version = "21"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "2036fe2532fe0e836fca38d09080a7fda9a5d19f7aab15e79df47e847148f65f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "1ff6eafd3b70bd9a7696bf68a02e0cae9c828ea4"
+llvm_version = "15.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "051ff45c4851f7d1805a1229963cefa6b5f0dec8dd2492ab2b3beadc22143c29"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0af3e507e8b2846fa27dcba9bb57d2f08d3aa316"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f33c94248cc9bc5e04450e728716e48c2bbc48b0644d901601339a7cba0be06f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26b37ce4b549faed625eae21d535c961e7c41998"
+libc = "musl"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "0fd6634cb13c11840c4f79191fc4ff70c108438b6133637e566401f38b5a7151"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83700b71d68feed62603cf468d4fcf09d90c120e"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "da0d311c73ba087932abfab37c2f09843a0dc53cb4427bc654633857d708de96"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38747b7f5f2cd0e223221635601a00882c814769"
+libc = "musl"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "905dc31549c2b13bd03a73a8cbecbbe7f68d65d0dfa5e048af861354d54e2c3f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86c15d9130dad6b0bde15ed249c50eae18e4fa17"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8406ed0646572159c635d3dc56b1f5d9aa9f30f2ffed3a3d8a0ed11141b1e6fc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9287ec998455a9ead2db9f78871bc4d8c585ef3b"
+libc = "musl"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7d52bac92d9499f24835ed39cbe70829b0cfedfd397510fb9e7006c998f07a2f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5814f9d2f109822de2ae7be74ee1d8726e71f250"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "470bbc767d5ea189ef051f1ce140c1ca47a047c64e9e940f9a08518a97161883"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f06f2234c5a88051dfc96cfaaa92a4a19c14f82"
+llvm_version = "15.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ed402e1f1fab1a4a1e567830b08c741dfac6e8390059f9d85795a2b2b1436b4b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59e5286ca6f1c133c85e93b965475fa39f909347"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ae4662798f85e536200363bf003ac1caaa526ae40d29d9ec9bb956562713d4e4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "c0a6c63a958d5fb727a45ddf9c8697f5922d4009"
+llvm_version = "15.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7686f271961f1336fa27777d4a2d40e19ee37e4881c9eeaf0b72bd96de26b128"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4556a138aa39479f4250dcbc5052f2b3405155a"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1748a612c97c2d470943482eccd3ecb28f35423c082a9f4977f8d8eba319bdc9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4556a138aa39479f4250dcbc5052f2b3405155a"
+libc = "glibc"
+llvm_version = "15.asserts"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1748a612c97c2d470943482eccd3ecb28f35423c082a9f4977f8d8eba319bdc9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f3ec87a7f3e4dd187403659055a81f92cf873ec"
+libc = "musl"
+llvm_version = "15.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1116f82dae21b83f86f83aa723cacd762fb2e5d229da640a63202f16092f776a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "1cd5332d21da18d89a7275d00f1fa391f64c65f2"
+llvm_version = "15.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f221c2a5c6787c5dd9577ac518bb97fbf0830c7ff2da61f7d4edf7681774406a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bd54f9022e6e8d7973f9dc76771d7cba43ef8f8"
+llvm_version = "15.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "57a95025877be3c489e18f17b59a3e612aa79d3e2ac38a1370d511a5af894d9f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "0213c68f59c92b9936007493c1f4178ce5369f91"
+llvm_version = "16.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "914dd63e2e8028527ab09cdb38c69b838ae67cb0cdf805fb16f6fe95b24c1c0c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b87cb76bc4252a185baf777a67a017eba387347"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f1fc0d97d051770fd9f34f9c5b99d17b4e77d599f6ce419df474b519d2cd6b2d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87493e5e01ff7bc33cc8f144f9bbc26866b1ff44"
+libc = "musl"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e1cca904c4accb1fcc2a025132292e54820ba270174f6d87b4b75c2930b5e0cc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e7acf1476fa4ab9c8055b1fd3871a94e5b3868b"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ff697eb3ba73188bf22efc843bc41f4cd25493d6921a8fd8602adc6880a2c2f6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26ed7c57258adf608b8f7f263a7e1f4c9c1afc0b"
+libc = "musl"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ea28cc8880dba44ab64d0a47c97aa4e2477163a6cecf86900170c2208e47a90d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "455486023fba844560aa6f1e8b7c07da1881a476"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "19f1f31dd381023fc95d6a67dfcfb8ee9688ac1e437863d8fdb189005eaafb19"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dea8ca01438784ca5cd2a6422bbbbcdc1e2a2237"
+libc = "musl"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "5ffd949a8daf7b5bd28400f405c5ee1f8381e126b177b6d5aadbe10a71f29e51"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ede3d534f5ade89305cf0fd53ddb35e453dff4ac"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ebb75378f623a0cdebf7b74a5a5dc41220efb0ccca9c873311566368d338502b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3964473040224c70d7b5a68b87ecdaf795aa7606"
+llvm_version = "16.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d14117897e478c5ee3cc48a8381a603431a01eee8f456b8d26a2237c60cbbb50"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31bb9945252b4bce89b21c4a3f199917500243d5"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "9673181a68f14521c3ede32b6e439f67e2eb20a12cec03843841fcb46093bf07"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "cc66bed7e6c0649bd2f39bb4fe0472db1110227f"
+llvm_version = "16.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "b1096776992e929d3f2cf4cd736e14821010b3a1b30dfcd618cdeca1c4886ccd"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bc60760d24a2fe087958cb979da28262bd954f3"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "c0e9a9b88c2a43d991f656581317f98b9254d1e7efedbc3e77ea0febde5be950"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bc60760d24a2fe087958cb979da28262bd954f3"
+libc = "glibc"
+llvm_version = "16.asserts"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "c0e9a9b88c2a43d991f656581317f98b9254d1e7efedbc3e77ea0febde5be950"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b437660ff0ec002f9d91725a8f20dc51f7477bb0"
+libc = "musl"
+llvm_version = "16.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ef19e1664546ebf470a83c1e400158b7744a37e46798650fd9f8e78dc454b03e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "036b36be742a553799159a6559ab99606ad3412a"
+llvm_version = "16.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "21513225899c1e7cffd4f9151bc6a30e95177776dfb25d9c2d4b6c413d824158"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60392d79ba3a90def35730707149a72af390c245"
+llvm_version = "16.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d813aec6a31729abe13c30200506680d010a45c3e8fe4a6b67e9bc50219b5405"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "154fe0aed366c14e376c98453edb35fd129bdc5c"
+llvm_version = "18.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ea27debc735af97f9598f1989fa3f70b8298c6eeeffef11a77abc8a5c82913c2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67624d7b656db4a7797afc55be94a1939faaa7a2"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6e78cba59eb1465d7610f5f5f96d32613d5be9015a5db6d04116ffb7dfa703ba"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "568cec1969db564416c38246e35d414266001ee8"
+libc = "musl"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "fa3e34808571eac2310ba77ef67eb1cdbf40edc8799dc87bcd2fe86042ff6949"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "0f8d3d950fa6ed81192d8d2c5a2f875fcaaf758c"
+llvm_version = "18.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7b6b607f1f47f0e40adfab3a2cd11d05ecb084dbed0af25c42c415fe08bcded2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ddd9d428248b26db9d03e0ed1c24ae7b74f36cd"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "0f9d77041d06a1beb88060cff1e720615cf54480b115ebb5d7e7edcef55fd724"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fcfe6d49a46cc32bf0f6a13c80d7d34c3047c27c"
+libc = "musl"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "629ca966b057c8c5b1e113704cad1348da5f4a8e49d67a789fb287f9dbb3a485"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19866b92a281e30085d8a7df2edb21967a655952"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "ec37ec2285592f1fb93b08135d6c074d561ab0e381d8754986a644d64e4a4e0b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4ee7370c87228fd11f8652e028df9d1760b588a"
+libc = "musl"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "41f11e58fa81a81fa3bffca5559a2708081cd7b254671b1af5bb39caae96f87b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6e766af7fd665ada89b71e3ad10ef2d7960b272"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a0af98c982d29a612f94e9d18e9d8abe417d48a3d03bb0b884d6cef59cc93ced"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dbfa18571d3fc1b88754552342d8ea535ccb668e"
+llvm_version = "18.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6562ba6b137490c1188c8781abea855f357e05050ede44116d3d0f1ac94e5fbe"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74fc1a215f25d71bf58bf119f092e53d20880abb"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "07e47d40ee8e9b2dfb086b32ab642046f333f8101d9867372a875d1a130e6421"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "4df51912e58fd6125fbc2575874858417f17b3e7"
+llvm_version = "18.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "20093cc336bc2c5496e8839a54204f02b338ae94d6f2fc3843f01d2a612dec4f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bf841996c5cbd781fb7573ca4e67781fc98dd24"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "38b7c4178ff2339de003eee3efac1a438e932431eb3cf530e2a47eae89a620b4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bf841996c5cbd781fb7573ca4e67781fc98dd24"
+libc = "glibc"
+llvm_version = "18.asserts"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "38b7c4178ff2339de003eee3efac1a438e932431eb3cf530e2a47eae89a620b4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11e49e15b28eb802970f135474791f2aed99a102"
+libc = "musl"
+llvm_version = "18.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "08b1ca687f84f06c809a54cab119f668ed375b715bf690237c1282e0e7820222"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "bca17199b8b6d7d500f78620cb690487f41b4b30"
+llvm_version = "18.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "0f98eb3d6d2e7eb9a7bfc763c54324ab276faa4da15b77668d4456d70f685e0f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d121b8fefeaef8ee5a5ff9d849085c111c5d7e84"
+llvm_version = "18.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "2038da53d698c4aec5f0c0ca4563e839c103154001c572cc5dd984a314dab36b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "6361919772a65e986aa805e6c9cb379e99b337cc"
+llvm_version = "20.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "60805a02a010dd133d0bd610122cfb2a8811d3f0258c6ad02215d6a4f67b68a0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4b0dd5654b65801e11b2dae775d7c391289f83d"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6ed4b1a61444edae35b6c4755ff924247928ddd656ae1b7f8ce9f4b001846e1e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e919461861a4ede5b5c8e1d24b6bcab7316588c2"
+libc = "musl"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "e035298f8626c38507f729fc9b684c10a3e131842cef16f9c2349b8468f6a52a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "2d11b0a6f18bd4c6e51d99fae6e9fb3980f74ab8"
+llvm_version = "20.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1e89f4a63535e0c783cde577ffea974d103acdf0024b0122d20b1d70b9cb0149"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2ce1e788735186d2d63a06b6e8a57d71ae0c2c6"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1528b5347f73bfca8999525fd077e57ccc283a4ddc365e008111438a915e4cef"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dd69ad927684e0b847be0bc83fdfd14cb6a9c39e"
+libc = "musl"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "dc1ca94efe35ebf950cb6d06b8625bbb4e76968e8d42fa1d862229bc6bbf7872"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "214146894acfd73aec8d51e0d2712c2e55d8ebca"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6d5656ab39ae4f7be310dd7f2a86189c0de4b0306d11fed74fc6680dc095549b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "75ff69b0fdf366b711d12d5c608655fe16235e58"
+libc = "musl"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "1c912f661900204b7d5a22e62b8300c90c52d0cf72a4cb2a105b70bc83b9f362"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d486b1dc7a5acde2f19bc8f72cb78035acc842f"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "10c485725577e10ef81e14108f230bbfafeead580b82bb6602a527845da1a04f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91c2114c5382831755df76035f58d3145df47034"
+llvm_version = "20.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "f944a6c06e037612cc738b316c732526a5aff8b54966c91dbd83d8e0d8b39e5d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "364ff54ba0a3d0de0a36f03b45317eb0d60ed1f6"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "fe9688d4bbc7a8704a74915b4ab9cb6f772ae3ba1f01cf4c612ead93ec266f68"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f27617c3da9c1cf1ddb569c5af47dce479712f1"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a97d627575f7775b0b4df47d8e5e09d56758da0c0a06d19b71cea1f3d63287c5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "946404f309b4f39d2e40aab8c2a732d0031801a1"
+llvm_version = "20.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "0c744db9015ebd0372aecf221861d03beaf900905d89ade8fe1ef617d27fa2cc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e04d6275a856f9624c29590c6b6b64281c53ecbb"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6bfe03b1e79d1f6e6e734944fa5d886397c62e5acfdc631231ebf5955c88e5c8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e04d6275a856f9624c29590c6b6b64281c53ecbb"
+libc = "glibc"
+llvm_version = "20.asserts"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6bfe03b1e79d1f6e6e734944fa5d886397c62e5acfdc631231ebf5955c88e5c8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b9c1505717e84f15923c9ea831cc1217931ea4c"
+libc = "musl"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "23e34a120c31fa4a553a108c92b8855bc7217ba122439776b48d9e09999086b0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "a500758ce29c7213eeeb3b0d61e7d06781301acc"
+llvm_version = "20.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7f0860426bdc49f97967fdcf7e45151f1927eda67d69c7b6a3474c7aa4124ca7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "037fc0a9ccb732e6f6e62a515b49fda175e6d194"
+llvm_version = "20.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "45565cf86f6b2d82549cd2d05b63b6f0ebade9c7abc58d80650201bf2c6f676e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "77456eed0b31ec9f1c3fa50828a3595bb4cd0569"
+llvm_version = "21.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "c143bbee4a89a7c025d7f01f810f10af71afc5bdfc28d5e462ef85af4d2ced50"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b345f35bb08f9e7cd0619d140d60b1e98dfdf072"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "46371ae8b76b3f7b60f0f7f9364d702810c640f74722fa53b5455537f10c40df"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae81382e04a2f7d089cd13599a49d9b43be5150d"
+libc = "musl"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "84dd6b5ab1af4f9a9a4ad4e2300f8ec84f55e963f3cae30f18c6a792ea545a6a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "aarch64"
+git-tree-sha1 = "1f21c02a079dd5c8a45180b0515c58be6b454470"
+llvm_version = "21.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "bbfb06a95852d4672c66e3f2e7a788d9cd0a5289a1b63fcacbe1b8dd55f59501"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e5abd175c3483eceb8085bb216ad0319fb871a7"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "c4dbd8c679cbd0124784d7cf2281aeb6d3d8f7c952e666569e68222e3e3371f8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97f6ab556680216b3faa0ab8d71f902d5fd652e0"
+libc = "musl"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "20e12e9a4bcd4ece89eaf04ae4d45ac9575ffa689685af4f0b2aed1649d39121"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6778a5238e7ab3e83d762db1f54f3019fe956a1b"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "7d18c8d796e60b241a79862378c426e4f9c0c3233d3779f3f43e6465429afc61"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3dfa16a5f05e64dd0fe32c807546770386a2bf95"
+libc = "musl"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "6e852fe10e788ca01a48121c599644c6746241b55a9729c6d0a6268e9395398e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98562c3cec0853dd0396e09f5f35e4957e6d8760"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "14fa01e0af5ac94a7e098151c4cb8c30b4d8e974808905d70e572dd0ef401c74"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e860570cd928239d7be53f5403b59f56f9cc4c27"
+llvm_version = "21.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "224310c1e5e6049dadf6b448988028ba16f294344bb61d10f2e995ba5b93e718"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7c96c73dd896db992c1e8315322264cb21fa951"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "671e70cdc49899939b42f475f8be73dde7bf2643dcbb8c064e89fb20a0e5be2e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81b68a018472980c42a2230b4e4233170368fc26"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "d8e71992426ef17d56b2f1f022f54bbc7bb927b0ba10b35e8f32bac059241971"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "f1664e55216565e991c12dc629137ed5d0877e96"
+llvm_version = "21.asserts"
+os = "macos"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "8204d8b2704e79ede6dc390053534639e3613958ba936586488b64484c750825"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "902e6bdb1e42247c144aaea300e9b7acc1706811"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "365e52576197831d430e283a93073ca89417b97471a50bae1e4813947586dc53"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "902e6bdb1e42247c144aaea300e9b7acc1706811"
+libc = "glibc"
+llvm_version = "21.asserts"
+os = "linux"
+sanitize = "memory"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "365e52576197831d430e283a93073ca89417b97471a50bae1e4813947586dc53"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04923233a28676e6e6e63c5429dfbed4ac95421f"
+libc = "musl"
+llvm_version = "21.asserts"
+os = "linux"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "a696024d2d26b9062a458cf1ecb0c9343c17dad03d07b0ad7befca92e4bc9037"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+git-tree-sha1 = "4787e1f3e29a5a8b269117b7b77fc58f67cc38c3"
+llvm_version = "21.asserts"
+os = "freebsd"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "63efe7c3e1fc41eaa671d8f918d86f478a2733cc28cef0522f12139d250b2a93"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+[[LLVM_utils_unified]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53843591249c2d6e0c7b641c1c0796cd00dd00f6"
+llvm_version = "21.asserts"
+os = "windows"
+
+    [[LLVM_utils_unified.download]]
+    sha256 = "347c32db198af4930626bc998e78374ed1e2c7f80e11f06421c4f3dcc5960e3d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_utils_unified_jll.jl/releases/download/LLVM_utils_unified-v0.1.0+0/LLVM_utils_unified.v0.1.0.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
